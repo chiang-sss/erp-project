@@ -1,0 +1,4 @@
+org/chiangleoi/erp/mapper/UserMapper.class
+org/chiangleoi/erp/service/impl/EmpServiceImpl.class
+org/chiangleoi/erp/mapper/EmpMapper.class
+org/chiangleoi/erp/service/impl/UserServiceImpl.class
